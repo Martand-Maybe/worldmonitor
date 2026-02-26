@@ -1931,6 +1931,7 @@ const ALLOWED_ORIGINS = [
   'https://worldmonitor.app',
   'https://tech.worldmonitor.app',
   'https://finance.worldmonitor.app',
+  'http://localhost:3000',   // vercel dev
   'http://localhost:5173',   // Vite dev
   'http://localhost:5174',   // Vite dev alt port
   'http://localhost:4173',   // Vite preview
